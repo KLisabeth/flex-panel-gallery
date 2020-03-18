@@ -1,1 +1,1 @@
-# -flex-panel-gallery
+# flex-panel-gallery
