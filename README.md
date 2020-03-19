@@ -5,7 +5,7 @@ Image gallery created using Flexbox, CSS transitions and  JS to get things inter
 # About
 
 Template was made from [this](https://www.youtube.com/watch?v=9eif30i26jg&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH&index=5) video tutorial of **Wes Bos**.
-It is about how to use **Css transitions**, and also about **nested flexbox containers and items**. Also we got here JS to get it interactive.
+It is about how to use **Css transitions**, and about **nested flexbox containers and items**. Also we got here JS to get it interactive.
 
 # Inside
 
