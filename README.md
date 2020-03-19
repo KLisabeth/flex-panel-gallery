@@ -15,7 +15,7 @@ handler/listener folders - Got JS, that helps us to make our gallery interactive
 
 # Collaboration 
 
-This project was made with help of [KLisabeth](https://github.com/KLisabeth) 
+This project was made by [KLisabeth](https://github.com/KLisabeth) and [NickMarinade](https://github.com/NickMarinade)
 
 # Links
 
