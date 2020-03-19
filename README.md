@@ -9,9 +9,9 @@ It is about how to use **Css transitions**, and also about **nested flexbox cont
 
 # Inside
 
-index.html - html layout.
-style.css - where all the magic happends with help of **flexbox**
-handler/listener folders - Got JS, that helps us to make our gallery interactive, by creating events attached to some user actions.
+index.html - html layout.  
+style.css - where all the magic happends with help of **flexbox**  
+handler/listener folders - Got JS, that helps us to make our gallery interactive, by creating events attached to some user actions.  
 
 # Collaboration 
 
